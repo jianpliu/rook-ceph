@@ -1,1 +1,1 @@
-FROM registry-1.docker.io/v2/rook/ceph:v1.6.3
+FROM registry.k8s.io/rook/ceph:v1.6.3
